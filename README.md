@@ -1,8 +1,23 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Already added and configured:
+
+- Next.js
+- Typescript
+- TailwindCSS
+- Basic layout system
+
 ## Getting Started
 
-First, run the development server:
+First, install dependencies:
+
+```bash
+npm i
+# or
+yarn
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
